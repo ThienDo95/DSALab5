@@ -1,0 +1,10 @@
+package v1;
+
+public class ListIndexOutOfBoundsException extends IndexOutOfBoundsException
+{
+
+	public ListIndexOutOfBoundsException(String s)
+	{
+		super(s);
+	}
+}

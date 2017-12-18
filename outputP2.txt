@@ -1,0 +1,690 @@
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+4
+4
+This bag has item(s):0 Layer(s)
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+5
+5
+The sample bag is empty: No items
+Sample is weighted 0.0
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+3
+3
+Bag is weighted 0 due to emptiness.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+2
+2
+It's an empty bag. Cannot remove anything.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+6
+6
+Sample bag is empty. Nothing to pop.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+1
+1
+Enter the amount of item to put into bag: 
+10
+Enter the weight of the item(s): 
+1.6
+10 item(s) weight 1.6 is(are) placed in the bag.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+4
+4
+This bag has item(s):1 Layer(s)
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+3
+3
+Bag is weighted 16.0
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+1
+1
+Enter the amount of item to put into bag: 
+4
+Enter the weight of the item(s): 
+12.2
+4 item(s) weight 12.2 is(are) placed in the bag.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+1
+1
+Enter the amount of item to put into bag: 
+7
+Enter the weight of the item(s): 
+0.9
+7 item(s) weight 0.9 is(are) placed in the bag.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+4
+4
+This bag has item(s):3 Layer(s)
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+3
+3
+Bag is weighted 71.1
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+2
+2
+7 item(s) has/have been removing from the list
+Do you want to put the removed item into the sample bag?(yes/no)
+yes
+Removed item(s) is/are now stored as sample item in the sample bag.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+4
+4
+This bag has item(s):2 Layer(s)
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+3
+3
+Bag is weighted 64.8
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+1
+1
+Enter the amount of item to put into bag: 
+5
+Enter the weight of the item(s): 
+2.1
+5 item(s) weight 2.1 is(are) placed in the bag.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+1
+1
+Enter the amount of item to put into bag: 
+22
+Enter the weight of the item(s): 
+0.5
+22 item(s) weight 0.5 is(are) placed in the bag.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+4
+4
+This bag has item(s):4 Layer(s)
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+3
+3
+Bag is weighted 86.3
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+2
+2
+22 item(s) has/have been removing from the list
+Do you want to put the removed item into the sample bag?(yes/no)
+no
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+5
+5
+The sample bag has one item
+Sample is weighted 0.9
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+4
+4
+This bag has item(s):3 Layer(s)
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+3
+3
+Bag is weighted 75.3
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+2
+2
+5 item(s) has/have been removing from the list
+Do you want to put the removed item into the sample bag?(yes/no)
+yes
+Removed item(s) is/are now stored as sample item in the sample bag.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+4
+4
+This bag has item(s):2 Layer(s)
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+3
+3
+Bag is weighted 64.8
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+5
+5
+The sample bag has 2
+Sample is weighted 3.0
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+6
+6
+An item that is weighted 2.1 has been removed from the sample bag.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+5
+5
+The sample bag has one item
+Sample is weighted 0.8999999999999999
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+7
+7
+Sample bag has been empty
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+6
+6
+Sample bag is empty. Nothing to pop.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+1
+1
+Enter the amount of item to put into bag: 
+3
+Enter the weight of the item(s): 
+5.5
+3 item(s) weight 5.5 is(are) placed in the bag.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+1
+1
+Enter the amount of item to put into bag: 
+3
+Enter the weight of the item(s): 
+2.7
+3 item(s) weight 2.7 is(are) placed in the bag.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+2
+2
+3 item(s) has/have been removing from the list
+Do you want to put the removed item into the sample bag?(yes/no)
+yes
+Removed item(s) is/are now stored as sample item in the sample bag.
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+3
+3
+Bag is weighted 81.30000000000001
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+4
+4
+This bag has item(s):3 Layer(s)
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+5
+5
+The sample bag has one item
+Sample is weighted 2.7
+
+Application's Options: 
+                       
+1. Place a layer of item(s) in the bag
+2. Remove a layer of item(s) from the bag
+3. Display the weight of the bag
+4. Display the number of layers in the bag
+5. Display the number of items and the weight of the sample bag
+6. Remove an item from the sample bag
+7. Empty the sample bag
+8. Exit
+                       
+Choose your option: 
+
+8
+8
+Have a good day.

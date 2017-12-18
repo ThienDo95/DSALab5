@@ -1,0 +1,298 @@
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Thien
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Thu
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Be Anh
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Hoan
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Ha
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+4
+Thien Thu Be Anh Hoan Ha 
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Tin
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Phuong
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+4
+Thien Thu Be Anh Hoan Ha Tin Phuong 
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+3
+Phuong is your top item
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+2
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+3
+Tin is your top item
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+4
+Thien Thu Be Anh Hoan Ha Tin 
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+2
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+3
+Ha is your top item
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+4
+Thien Thu Be Anh Hoan Ha 
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+2
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+4
+Thien Thu Be Anh Hoan 
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+5
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+4
+
+
+
+Application's Options: 
+                       
+1. Push
+2. Pop
+3. Display top items
+4. Display items in stack
+5. Clear stack
+6. Exit
+                       
+Choose your option: 
+
+6
+PEACE
